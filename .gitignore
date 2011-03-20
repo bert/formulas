@@ -1,0 +1,10 @@
+*.gif
+*.png
+*.aux
+*.log
+*.ps
+*.dvi
+*.*~
+*~
+.git
+
