@@ -27,6 +27,7 @@ all: \
 	EN13445-3_7.5-15.gif \
 	EN13445-3_7.5-16.gif \
 	EN13445-3_7.5-17.gif \
+	parabola_length.gif \
 	pythagoras.gif
 
 %.gif: %.tex
