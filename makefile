@@ -28,7 +28,13 @@ all: \
 	EN13445-3_7.5-16.gif \
 	EN13445-3_7.5-17.gif \
 	parabola_length.gif \
-	pythagoras.gif
+	pythagoras.gif \
+	nelma-cap_1.gif \
+	nelma-cap_2.gif \
+	nelma-cap_3.gif \
+	nelma-cap_4.gif \
+	nelma-cap_4-1.gif \
+	nelma-cap_eq-1.gif
 
 %.gif: %.tex
 	./textogif -res 0.2 -dpi 300 $<
