@@ -34,7 +34,8 @@ all: \
 	nelma-cap_3.gif \
 	nelma-cap_4.gif \
 	nelma-cap_4-1.gif \
-	nelma-cap_eq-1.gif
+	nelma-cap_eq-1.gif \
+	nelma-cap_eq-2.gif
 
 %.gif: %.tex
 	./textogif -res 0.2 -dpi 300 $<
