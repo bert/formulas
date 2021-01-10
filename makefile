@@ -41,6 +41,7 @@ all: \
 	nelma-cap_9.gif \
 	nelma-cap_10.gif \
 	nelma-cap_11.gif \
+	nelma-cap_12.gif \
 	nelma-cap_eq-1.gif \
 	nelma-cap_eq-2.gif \
 	nelma-cap_eq-3.gif \
