@@ -1,5 +1,8 @@
 
 all: \
+	castability-1.gif \
+	castability-2.gif \
+	castability-3.gif \
 	EN13445-3_5.4-1.gif \
 	EN13445-3_5.4-2.gif \
 	EN13445-3_5.5-1.gif \
