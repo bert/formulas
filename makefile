@@ -52,7 +52,8 @@ all: \
 	nelma-cap_eq-5.gif \
 	nelma-cap_eq-6.gif \
 	nelma-cap_eq-7.gif \
-	nelma-cap_eq-8.gif
+	nelma-cap_eq-8.gif \
+	reliability.gif
 
 %.gif: %.tex
 	./textogif -res 0.2 -dpi 300 $<
